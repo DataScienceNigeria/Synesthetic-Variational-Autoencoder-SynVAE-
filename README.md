@@ -7,6 +7,7 @@ Brilliant work by the University of Amsterdam team on Synesthetic Variational Au
 ![](2.jpg)
 
 Read https://arxiv.org/pdf/1909.01218.pdf
+
 Watch https://youtu.be/owGRJktHmDk
 
 #artificialintelligence #machinelearning
